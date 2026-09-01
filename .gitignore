@@ -1,0 +1,21 @@
+# os
+.DS_Store
+Thumbs.db
+
+# ide
+.idea
+.vscode
+.claude
+.cursor
+
+# python
+__pycache__
+*.pyc
+
+# the varn binary fetched by run.py and the per-test scratch
+/.varn/
+/.scratch/
+/.tmp/
+
+# environments
+.env
